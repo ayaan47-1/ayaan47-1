@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ayaan Khan
 
-### A passionate AI Engineer
+### AI Engineer
 
 <p align="left"> <a href="https://twitter.com/Ayaanahmedkhan9" target="blank"><img src="https://img.shields.io/twitter/follow/Ayaanahmedkhan9?logo=twitter&style=for-the-badge" alt="Ayaanahmedkhan9" /></a> </p>
 
