@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ayaanahmedkhan12@gmail.com**
 
-- ⚡ Fun fact **I have been playing guitar for the last 10 years now. **
+- ⚡ Fun fact **I have been playing guitar for the last 10 years now.**
 
 - 👨‍💻 All of my projects are available at **[https://ayaan47.com/](https://ayaan47.com/)**
 
