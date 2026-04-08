@@ -21,7 +21,7 @@
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1q5D1mbZT4pxZOcXIJWa7yqmNs9ngpf_j/view?usp=sharing](https://drive.google.com/file/d/1q5D1mbZT4pxZOcXIJWa7yqmNs9ngpf_j/view?usp=sharing)**
 
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ayaan47-1&" alt="ayaan47-1" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ayaan47-1&theme="tokyonight" alt="ayaan47-1" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
