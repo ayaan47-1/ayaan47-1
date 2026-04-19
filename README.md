@@ -31,6 +31,8 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,docker,postgres,redis,react,nextjs,ts,js,html,nodejs,nginx,git,figma,blender,bash,java,swift,svelte&theme=dark&perline=12" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaan47-1&show_icons=true&locale=en&layout=compact" alt="ayaan47-1" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ayaan47-1&show_icons=true&locale=en" alt="ayaan47-1" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaan47-1&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayaan47-1" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=ayaan47-1&show_icons=true&locale=en&theme=dark" alt="ayaan47-1" />
+</p>
