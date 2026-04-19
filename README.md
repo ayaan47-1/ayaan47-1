@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayaan</h1>
-<h3 align="center">An AI Engineer based in Chicago, IL</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayaan47-1" alt="ayaan47-1" /></a> </p>
+<h3 align="center">AI Engineer based in Chicago, IL</h3>
 
 - 🔭 I'm currently working on [VeritasLayer](https://veritaslayer.net/)
 
@@ -30,6 +28,8 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,docker,postgres,redis,react,nextjs,ts,js,html,nodejs,nginx,git,figma,blender,bash,java,swift,svelte&theme=dark&perline=12" />
 </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayaan47-1&theme=dark" alt="ayaan47-1" /></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaan47-1&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayaan47-1" />
