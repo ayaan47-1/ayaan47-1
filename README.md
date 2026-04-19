@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on [VeritasLayer](https://veritaslayer.net/)
 
-- 🌱 I'm currently learning **Agentic workflows in construction and real estate industries.**
+- 🌱 I'm currently learning about **Agentic workflows in construction and real estate industries.**
 
 - 👯 I'm looking to collaborate on [VeritasLayer](https://veritaslayer.net/)
 
