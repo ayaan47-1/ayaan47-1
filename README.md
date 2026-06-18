@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayaan</h1>
 <h3 align="center">AI Engineer based in Chicago, IL</h3>
 
-- 🔭 I'm currently working on [VeritasLayer](https://veritaslayer.net/)
+- 🔭 I'm currently working on [VeritasLayer](https://veritaslayer.net/) & TrueTone
 
 - 🌱 I'm currently learning about **Agentic workflows in construction and real estate industries.**
 
